@@ -1,0 +1,3 @@
+name: Student
+role: developer
+status: active
